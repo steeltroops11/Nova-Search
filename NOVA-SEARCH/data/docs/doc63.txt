@@ -1,0 +1,5 @@
+Topic: search_engines
+This document explains search engine architecture.
+Search engines use indexing and ranking algorithms.
+TF IDF and cosine similarity are used for ranking.
+Search engines retrieve relevant documents efficiently.

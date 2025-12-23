@@ -1,0 +1,5 @@
+Topic: natural_language_processing
+This document focuses on natural language processing.
+NLP deals with text and language understanding.
+Tokenization and parsing are NLP techniques.
+NLP is used in search engines and chatbots.

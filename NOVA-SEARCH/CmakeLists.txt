@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.10)
+project(NOVA_SEARCH)
+
+set(CMAKE_CXX_STANDARD 17)
+
+include_directories(include)
+
+add_executable(
+    nova_search
+    src/main.cpp
+    src/document_loader.cpp
+    src/tokenizer.cpp
+)

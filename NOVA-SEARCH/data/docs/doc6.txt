@@ -1,0 +1,5 @@
+Topic: machine_learning
+This document discusses machine learning algorithms.
+Machine learning includes supervised and unsupervised methods.
+Algorithms like regression and classification are explained.
+Machine learning is widely used in prediction systems.

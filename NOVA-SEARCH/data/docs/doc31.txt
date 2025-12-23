@@ -1,0 +1,5 @@
+Topic: neural_networks
+This document explains neural networks.
+Neural networks are core to deep learning.
+Backpropagation is used for training neural models.
+Neural networks are used in image and speech recognition.
